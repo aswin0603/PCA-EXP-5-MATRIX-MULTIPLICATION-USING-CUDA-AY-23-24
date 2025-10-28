@@ -199,10 +199,9 @@ int main()
 ```
 
 ## OUTPUT:
-<img width="325" height="155" alt="image" src="https://github.com/user-attachments/assets/25f24d24-7dbf-41f9-9cfd-dec4bc064113" />
+<img width="1571" height="737" alt="image" src="https://github.com/user-attachments/assets/56180937-8219-4bea-8e35-dbf8902ce91b" />
 
-<img width="1690" height="786" alt="image" src="https://github.com/user-attachments/assets/73ee1b89-0b79-41cc-bc9e-f188438a8768" />
 
 
 ## RESULT:
-Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took 0.000150 seconds time and host took 0.000152 seconds time.
+Thus the program has been executed by using CUDA to mulptiply two matrices. It is observed that there are variations in host and device elapsed time. Device took 0.000169 time in seconds.
