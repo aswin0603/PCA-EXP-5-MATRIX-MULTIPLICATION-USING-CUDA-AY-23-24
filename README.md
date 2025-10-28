@@ -199,6 +199,8 @@ int main()
 ```
 
 ## OUTPUT:
+<img width="325" height="155" alt="image" src="https://github.com/user-attachments/assets/25f24d24-7dbf-41f9-9cfd-dec4bc064113" />
+
 <img width="1690" height="786" alt="image" src="https://github.com/user-attachments/assets/73ee1b89-0b79-41cc-bc9e-f188438a8768" />
 
 
